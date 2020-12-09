@@ -9,3 +9,6 @@ Data Science portfolio
 
 # PROCJECT 3: Python AES Encryption/Decryption using PyCrypto
   - https://classroom.google.com/u/1/c/MTMxMjM4OTQ2Mzc0/a/MjMxMDMxNzExODMz/details
+
+# PROJECT 4 : Christmas Sentiment Analysis---PreFinal
+  - https://classroom.google.com/u/1/c/MTMxMTczMjgwMzEy/a/MTY1MDc0OTgzNzQ4/details
