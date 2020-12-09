@@ -1,7 +1,7 @@
 # Ray_portfolio
 Data Science portfolio
 
-![alt text](ray.jpg)
+![alt text](images/ray.jpg)
 
 # PROJECT 1: Create a simple Natural Language Processing--Sentiment Analysis using Twitter API
   [Sentiment Analysis using Twitter API](https://classroom.google.com/u/1/c/MTMxMTczMjgwMzEy/a/MTkzMzczNjIxNzAz/details)
