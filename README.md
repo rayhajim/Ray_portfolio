@@ -6,3 +6,6 @@ Data Science portfolio
 
 # PROCJECT 2: Caeser Cipher
   - https://classroom.google.com/u/1/c/MTMxMjM4OTQ2Mzc0/a/MjMxMDM4ODQ2OTc3/details
+
+# PROCJECT 3: Python AES Encryption/Decryption using PyCrypto
+  - https://classroom.google.com/u/1/c/MTMxMjM4OTQ2Mzc0/a/MjMxMDMxNzExODMz/details
